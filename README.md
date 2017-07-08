@@ -13,3 +13,5 @@ The HMC5883L library has been modified for use with this example and is provided
 * On your Mac:: In (home directory)/Documents/Arduino/libraries  
 * On your PC:: My Documents -> Arduino -> libraries  
 * On your Linux box: (home directory)/sketchbook/libraries  
+
+For all my arduino articles: http://adam-meyer.com/arduino/
